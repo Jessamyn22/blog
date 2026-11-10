@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "c8bd1c5c4d08eb33",
+    "type": "split",
+    "children": [
+      {
+        "id": "7de0b201a05eb18d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b9196643c68f1bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66691b90274d7ec6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "043c196ac0148f39",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "85680694854d87a5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "97fab0da32f26cd6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "c2fe88696d6e5f5e",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "添加笔记属性"
+        }
+      },
+      {
+        "id": "6e26acf9c2ba9d05",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0a7335d6822f0278",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ea3a9c976c46c543",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "774f0f93bf87089e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "1972af56a8139892",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "6b9196643c68f1bc",
+  "lastOpenFiles": [
+    "图片/67a432f98e323355fb72c413d47f961f.jpg",
+    "图片/wps4.jpg",
+    "图片/Pasted image 20251028101154.png",
+    "图片/1765086404554.png",
+    "图片/wps1.jpg",
+    "图片/0536281675c1df5aae00e181fd155159.jpg",
+    "posts/日常/26.9.11喝酒小日常.md",
+    "图片/1765083967544.png",
+    "图片/Pasted image 20251028103326.png",
+    "图片/wps15.jpg",
+    "图片/Pasted image 20260915092503.png",
+    "图片/wps11.jpg",
+    "实训4 设备远程管理配置.docx",
+    "posts/日常/26.8.12小日常.md",
+    "posts/日常/26.8.23小日常.md",
+    "图片",
+    "posts/上课笔记/26下/网络互联安全技术",
+    "posts/上课笔记/26下/Linux安全加固",
+    "posts/上课笔记/26下/渗透测试",
+    "posts/上课笔记/26下/网络分析",
+    "posts/上课笔记/26下",
+    "posts/上课笔记",
+    "未命名.base",
+    "posts/日常/FirstOne.md",
+    "posts/日常/26.8.6mc服务器.md",
+    "posts/日常/漏洞修复.md",
+    "posts/日常",
+    "spec/about.md",
+    "spec/guestbook.md",
+    "spec/scriptcat.md"
+  ]
+}
